@@ -1,5 +1,4 @@
 # Fitting Poisson  distribution
-
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -32,7 +31,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Program :
 DEVELOPED BY : JEGATHEESWARI R
 
-REGISTER NUMBER : 212223230092
+REG NO : 212223230092
 ```
 import numpy as np
 import math
@@ -69,15 +68,15 @@ if cal_chi2_sq<table_chi2:
     print("The given data can be fitted in poisson Distribution at 1% LOS")
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
-```
- 
+ ```
 
 # Output : 
 
-![image](https://github.com/user-attachments/assets/19481e61-c593-476e-ba08-975230b214b5)
+![240573602-66c445f7-50f1-4749-a102-9da761ccabcd](https://github.com/user-attachments/assets/f8f7a12c-7e7b-4c23-b5ba-e587b95a8e5a)
 
 
-# Results
+# Results :
 
-The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
+The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
+
  
